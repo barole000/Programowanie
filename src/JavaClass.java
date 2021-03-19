@@ -3,4 +3,6 @@ public class JavaClass {
     //JRE ver 8.0.2810.9
     //author DEV1 Bartłomiej Oljeniczak
     //author DEV2 Daniel Krajenta 1
+    //author DEV2 Daniel Krajenta 2
+
 }
