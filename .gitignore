@@ -1,0 +1,5 @@
+# plik wyłączający poniższe pliki i katalogi z śledzenia
+# 1. katalog
+.idea/
+out/
+*.iml
